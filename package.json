@@ -1,0 +1,33 @@
+{
+  "name": "@lwojcik/homepage",
+  "description": "My homepage",
+  "private": true,
+  "version": "1.0.0",
+  "homepage": "https://www.lukaszwojcik.net",
+  "author": {
+    "name": "Łukasz Wójcik",
+    "url": "https://www.lukaszwojcik.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwojcik/homepage.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lwojcik/homepage/issues"
+  },
+  "keywords": [
+    "łukasz wójcik",
+    "homepage"
+  ],
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "0.11.1",
+    "clean-css": "4.2.3",
+    "html-minifier": "4.0.0"
+  }
+}
