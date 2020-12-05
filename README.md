@@ -1,4 +1,3 @@
-# @lwojcik/homepage
-[![Travis Build Status](https://travis-ci.com/lwojcik/homepage.svg?branch=master)](https://travis-ci.com/lwojcik/homepage)
+# @lwojcik/homepage-2020
 
-[My homepage](https://www.lukaszwojcik.net). Static website built with [Eleventy](https://www.11ty.dev/).
+[Old version of my personal homepage](https://2020.lukaszwojcik.net). Static website built with [Eleventy](https://www.11ty.dev/).
